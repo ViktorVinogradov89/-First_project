@@ -3,6 +3,8 @@
 ## Project_root
 
 <p align="center">
-  <a href="Link">link_n</a> |
-  <a href="Link_1">link_n1</a>
+  <a href="Link">README.md</a> |
+  <a href="Link">requirements.txt</a> |
+  <a href="Link">setup.py</a> |
+  <a href="Link_1">LICENSE</a>
 </p>
