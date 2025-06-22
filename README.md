@@ -10,8 +10,8 @@
 </p>
 
 # описание проекта
-Установка
-Клонируйте репозиторий:
+Установка  
+Клонируйте репозиторий:  
 
 git clone https://github.com/USERNAME/REPO_NAME.git
 cd REPO_NAME
